@@ -1,0 +1,14 @@
+{
+  "name": "firstbackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "patra"
+  ],
+  "author": "Patra Kirsani",
+  "license": "ISC"
+}
